@@ -11,4 +11,3 @@ graph G {
     G -- H [label="3"];
     H -- G [label="14"];
 }
-
